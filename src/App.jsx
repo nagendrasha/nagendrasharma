@@ -32,7 +32,7 @@ import { GitHub, LinkedIn, Email, CloudUpload } from "@mui/icons-material";
 const projects = [
   {
     id: 1,
-    title: "E-commerce Jawelry Store",
+    title: "E-commerce Jewellery Store",
     description:
       "Customized a WooCommerce theme, integrated payment gateways and optimized product templates for conversion.",
     features: ["Theme customization", "WooCommerce", "Speed optimization"],
@@ -41,7 +41,7 @@ const projects = [
   },
   {
     id: 2,
-    title: "Online Meet Store",
+    title: "Online Meat Store",
     description:
       "Built a Woocommerce store with custom checkout pages, email notifications and automated order processing.",
     features: ["Plugin development", "Admin UI", "Email integration"],
